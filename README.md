@@ -1,4 +1,5 @@
 # Учебный планировщик
+![Tests](https://github.com/4VD67D/study-planner/actions/workflows/tests.yml/badge.svg)
 
 Программа для учёта учебных заданий: название, описание, срок сдачи, статус. Написана на Python (tkinter + SQLite), интерфейс на русском языке.
 
